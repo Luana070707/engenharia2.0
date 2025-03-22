@@ -19,13 +19,13 @@ A seguir, os passos para a preparação do projeto:
 10. Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
 
 
-# Projeto: *<Nome_do_seu_Projeto>*
+# Projeto: *Sistema de Gestão para a Farmácia Vida Saudável*
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: *Farmácia Vida Saudável - Luana*
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+*O Sistema de Gestão para a Farmácia Vida Saudável tem como objetivo otimizar o controle de vendas, estoque e clientes. Ele permitirá o cadastro de produtos, registro de vendas, atualização automática do estoque e geração de relatórios gerenciais. Além disso, contará com controle de acesso para garantir a segurança dos dados. Essa solução visa melhorar a eficiência da farmácia, reduzir erros e proporcionar um atendimento mais ágil e preciso.Com a implementação deste sistema, os funcionários terão uma interface intuitiva para cadastrar produtos, registrar vendas e gerar relatórios gerenciais. O estoque será atualizado automaticamente após cada venda, e alertas serão emitidos quando um medicamento estiver com baixo estoque. Além disso, o sistema garantirá a segurança das informações por meio de autenticação de usuários, diferenciando permissões entre atendentes e administradores.*
 
 # Documentação
 
