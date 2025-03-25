@@ -21,7 +21,7 @@ A seguir, os passos para a preparação do projeto:
 
 # Projeto: *Sistema de Gestão para a Farmácia Vida Saudável*
 
-# Grupo: *Farmácia Vida Saudável - Luana*
+# Grupo: *Farmácia Vida Saudável - Luana Fernandes - 10439810*
 
 # Descrição
 
