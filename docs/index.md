@@ -49,7 +49,8 @@ garantirá a segurança das informações por meio de autenticação de usuário
 
 # Diagrama de Atividades
 
-![Design sem nome (6)](https://github.com/user-attachments/assets/1ed4889b-d50a-4fa1-a6c9-e693db3d9fcb)
+![diagramaatividade2 0](https://github.com/user-attachments/assets/660c3baf-201a-488d-8be9-c9ec49b0013d)
+
 
 ---
 # Diagrama de Casos de Uso
