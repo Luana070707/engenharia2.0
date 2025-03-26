@@ -49,7 +49,8 @@ garantirá a segurança das informações por meio de autenticação de usuário
 
 # Diagrama de Atividades
 
-![diagramaatividade2 0](https://github.com/user-attachments/assets/660c3baf-201a-488d-8be9-c9ec49b0013d)
+![Captura de tela 2025-03-26 085918](https://github.com/user-attachments/assets/58357571-74d0-42f7-b960-a383a7b602ec)
+
 
 
 ---
