@@ -16,7 +16,7 @@
 - [Referências](#Referências)
 ---
 
-# Autores
+# Autora: 
 
 ### Luana Fernandes
 ---
@@ -31,25 +31,27 @@ garantirá a segurança das informações por meio de autenticação de usuário
 
 ### Requisitos Funcionais:
 
-- #### Cadastro de medicamentos e produtos: O sistema deve permitir a inclusão, edição e remoção de produtos, com informações como nome, descrição, preço, e quantidade disponível.
-- #### Registro de vendas:  O sistema deve permitir a inclusão, edição e remoção de produtos, com informações como nome, descrição, preço, e quantidade disponível.
-- #### Atualização automática do estoque: Sempre que uma venda for registrada, a quantidade do produto no estoque deverá ser atualizada automaticamente.
-- #### Alertas de estoque baixo: O sistema deve gerar alertas automáticos quando a quantidade de um produto atingir o nível mínimo estipulado.
-- #### Relatórios gerenciais: O sistema deve permitir a geração de relatórios sobre vendas, estoque e performance dos produtos.
-- #### Controle de acesso: Diferentes tipos de usuários (atendente, administrador) devem ter permissões específicas para acessar funcionalidades do sistema
-
+- Cadastro de produtos, incluindo nome, preço, descrição e estoque.
+- Registro de vendas, associando produtos a clientes e gerando recibos.
+- Atualização automática do estoque após cada venda.
+- Geração de relatórios gerenciais sobre vendas e estoque.
+- Controle de acesso com autenticação de usuários.
+- Diferenciação de permissões entre atendentes e administradores.
+- Emissão de alertas quando um medicamento estiver com estoque baixo.
 ### Requisitos Não-Funcionais
 
-- #### Segurança: O sistema deve garantir que apenas usuários autorizados tenham acesso a funcionalidades sensíveis, como o cadastro de produtos e o acesso a relatórios financeiros.
-- #### Desempenho: O sistema deve ser capaz de processar transações em tempo real sem causar lentidão, mesmo em períodos de grande fluxo de vendas.
-- #### Escalabilidade: O sistema deve ser capaz de suportar o aumento do volume de produtos e transações conforme a farmácia cresce.
-- #### Usabilidade: O sistema deve ser intuitivo e fácil de usar, tanto para administradores quanto para atendentes.
+- Interface intuitiva e fácil de usar.
+- Segurança dos dados através de criptografia e controle de acesso.
+- Tempo de resposta rápido para operações do sistema.
+- Suporte a multiplas plataformas, sejam elas web e desktop.
+- Banco de dados seguro e escalável.
 ---
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+![Design sem nome (6)](https://github.com/user-attachments/assets/1ed4889b-d50a-4fa1-a6c9-e693db3d9fcb)
 
+---
 # Diagrama de Casos de Uso
 
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
