@@ -56,7 +56,8 @@ garantirá a segurança das informações por meio de autenticação de usuário
 ---
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![Captura de tela 2025-04-08 135914](https://github.com/user-attachments/assets/95589342-53ab-468c-b2c6-d7bb735b478d)
+
 ---
 # Descrição dos Casos de Uso
 
