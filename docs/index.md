@@ -65,7 +65,8 @@ garantirá a segurança das informações por meio de autenticação de usuário
 ---
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+![descriçãoCDU](https://github.com/user-attachments/assets/b5f7dc94-714c-451c-adb9-bbf0ea8448ba)
+
 ---
 # Diagrama de Sequência
 
