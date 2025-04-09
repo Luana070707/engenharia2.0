@@ -83,7 +83,11 @@ garantirá a segurança das informações por meio de autenticação de usuário
 # Diagrama de Implantação
 
 *&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
-
+---
 # Referências
 
-*&lt;Lista de referências&gt;*
+PRESSMAN, Roger S. Engenharia de Software. 8. ed. Porto Alegre: AMGH, 2016.
+
+SOMMERVILLE, Ian. Engenharia de Software. 10. ed. São Paulo: Pearson, 2019.
+
+---
