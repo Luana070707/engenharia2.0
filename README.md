@@ -36,4 +36,7 @@ Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o 
 # Releases
 
 Versão 1.0.0 (09/04/2025):
-Primeira versão estável do sistema, com as funcionalidades principais implementadas: cadastro de produtos, registro de vendas, atualização automática de estoque, autenticação de usuários, geração de relatórios gerenciais e alertas de estoque baixo.
+
+Primeira versão estável do sistema, com as funcionalidades principais implementadas: cadastro de produtos, registro de vendas, atualização automática de estoque, autenticação de 
+
+usuários, geração de relatórios gerenciais e alertas de estoque baixo.
