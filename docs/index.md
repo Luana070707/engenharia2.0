@@ -56,7 +56,7 @@ garantirá a segurança das informações por meio de autenticação de usuário
 ---
 # Diagrama de Casos de Uso
 
-![WhatsApp Image 2025-04-09 at 16 22 15](https://github.com/user-attachments/assets/77150080-01f3-49fe-b095-379ca28f49bb)
+![WhatsApp Image 2025-04-09 at 16 22 56](https://github.com/user-attachments/assets/29faf214-f4e0-4c7c-9d5a-e68912f57234)
 
 
 
