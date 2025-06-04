@@ -70,7 +70,8 @@ garantirá a segurança das informações por meio de autenticação de usuário
 ---
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![download2 0](https://github.com/user-attachments/assets/c431de81-da84-4565-be8b-19c979e23950)
+
 
 # Diagrama de Classes
 
