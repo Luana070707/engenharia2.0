@@ -85,12 +85,13 @@ garantirá a segurança das informações por meio de autenticação de usuário
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![download (1)kk](https://github.com/user-attachments/assets/1cdfce97-b4dd-4169-be27-5fa3da5df569)
+
 ---
 # Referências
 
-PRESSMAN, Roger S. Engenharia de Software. 8. ed. Porto Alegre: AMGH, 2016.
+1. UML – Guia do Usuário – Grady Booch, James Rumbaugh, Ivar Jacobson
+2. Engenharia de Software – Ian Sommerville
+3. UML 2.0 em Ação – Patrick Grässle, Henriette Baumann, Philippe Baumann
+4. Análise e Projeto de Sistemas de Informação – Kenneth E. Kendall, Julie E. Kendall
 
-SOMMERVILLE, Ian. Engenharia de Software. 10. ed. São Paulo: Pearson, 2019.
-
----
