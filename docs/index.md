@@ -75,7 +75,8 @@ garantirá a segurança das informações por meio de autenticação de usuário
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![download (1)2 0](https://github.com/user-attachments/assets/72858344-2470-4ca1-8969-01f4f39fee84)
+
 
 # Diagrama de Estados
 
