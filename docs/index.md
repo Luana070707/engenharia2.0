@@ -80,7 +80,8 @@ garantirá a segurança das informações por meio de autenticação de usuário
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![download (1)6](https://github.com/user-attachments/assets/44d6c6b3-463e-4b2f-a19f-cd52e5098955)
+
 
 # Diagrama de Implantação
 
