@@ -35,7 +35,7 @@ Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o 
 
 # Releases
 
-Versão 1.0 – Lançamento Inicial
+### Versão 1.0 – Lançamento Inicial
 Cadastro de produtos (medicamentos e itens de venda)
 
 Cadastro de clientes
@@ -51,7 +51,7 @@ Geração de relatórios básicos (vendas e estoque)
 Interface gráfica simples e intuitiva
 
 
-Versão 1.1 – Melhoria Operacional
+### Versão 1.1 – Melhoria Operacional
 Implementação de alertas para baixo estoque
 
 Correções de pequenos bugs
@@ -61,7 +61,7 @@ Melhorias na performance do sistema
 Adição de filtros nos relatórios
 
 
-Versão 2.0 – Expansão e Acesso Remoto
+### Versão 2.0 – Expansão e Acesso Remoto
 Acesso remoto para administradores via internet
 
 Backup automático na nuvem
