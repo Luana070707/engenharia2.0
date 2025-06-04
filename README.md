@@ -35,8 +35,37 @@ Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o 
 
 # Releases
 
-Versão 1.0.0 (09/04/2025):
+Versão 1.0 – Lançamento Inicial
+Cadastro de produtos (medicamentos e itens de venda)
 
-Primeira versão estável do sistema, com as funcionalidades principais implementadas: cadastro de produtos, registro de vendas, atualização automática de estoque, autenticação de 
+Cadastro de clientes
 
-usuários, geração de relatórios gerenciais e alertas de estoque baixo.
+Registro de vendas
+
+Atualização automática de estoque
+
+Controle de acesso (Atendentes e Administradores)
+
+Geração de relatórios básicos (vendas e estoque)
+
+Interface gráfica simples e intuitiva
+
+
+Versão 1.1 – Melhoria Operacional
+Implementação de alertas para baixo estoque
+
+Correções de pequenos bugs
+
+Melhorias na performance do sistema
+
+Adição de filtros nos relatórios
+
+
+Versão 2.0 – Expansão e Acesso Remoto
+Acesso remoto para administradores via internet
+
+Backup automático na nuvem
+
+Dashboard gerencial com gráficos e indicadores de vendas e estoque
+
+Integração com sistemas de pagamento
